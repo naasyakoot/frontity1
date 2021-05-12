@@ -1,4 +1,4 @@
-# my-frontity-project
+# frontity1
 
 This project was bootstrapped with [Frontity](https://frontity.org/).
 
